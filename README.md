@@ -2,7 +2,7 @@
 
 
 ### Notas:
-Recuerden reconstruir los modulos de Node
+Para reconstruir los modulos de Node:
 ```
 npm install
 ```
